@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working as a fullstack developer at Archi's Academy
 
+## Achievements
+<a href="https://github.com/users/Nithisha-VK/achievements/pull-shark">![Pull Shark Badge](pull-shark-default.png)</a><a href="https://github.com/users/Nithisha-VK/achievements/yolo">![YOLO Badge](yolo-default.png) </a>
 
 ## 
 
