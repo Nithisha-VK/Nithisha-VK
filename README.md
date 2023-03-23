@@ -16,7 +16,7 @@
 
 
 
-<a href="https://github.com/ahamad-ch/github-readme-stats">
+<a href="https://github.com/Nithisha-VK/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithisha-VK&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
 </a>
 
