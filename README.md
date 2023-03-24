@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working as a fullstack developer at Archi's Academy
 
+##
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nithisha-VK&theme=midnight-purple&hide_border=true&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 
 
@@ -17,9 +19,8 @@
 
 
 <a href="https://github.com/Nithisha-VK/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithisha-VK&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithisha-VK&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple" />
 </a>
-
 
 
 
